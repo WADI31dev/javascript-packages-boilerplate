@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Using webpack in simple HTML Project",
   "main": "index.js",
-  "repository": "",
-  "author": "",
+  "repository": "github.com:w410x/javascript-packages-boilerplate",
+  "author": "w410x",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.17.8",
