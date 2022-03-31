@@ -1,0 +1,25 @@
+{
+  "name": "javascript-101",
+  "version": "1.0.0",
+  "description": "Using webpack in simple HTML Project",
+  "main": "index.js",
+  "repository": "",
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.17.8",
+    "@babel/plugin-proposal-class-properties": "^7.16.7",
+    "@babel/preset-env": "^7.16.11",
+    "@webpack-cli/serve": "^1.6.1",
+    "babel-loader": "^8.2.4",
+    "eslint": "^8.12.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4",
+    "webpack": "^5.70.0",
+    "webpack-cli": "^4.9.2",
+    "webpack-dev-server": "^4.7.4"
+  },
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
